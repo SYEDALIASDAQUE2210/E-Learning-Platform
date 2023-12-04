@@ -52,7 +52,7 @@ Access the application by navigating to http://localhost:8000 in your web browse
 This requires Python Django to run. Install the dependencies and devDependencies and start the server
 
 ```bash
-  git clone https://github.com/utkarshchouhan/E-Learning-Platform
+  git clone https://github.com/SYEDALIASDAQUE2210/E-Learning-Platform
 ```
 
 ```bash
